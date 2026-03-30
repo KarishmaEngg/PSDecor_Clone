@@ -1,3 +1,4 @@
+import Navbar from '@/components/Navbar';
 export default function BlogDetail({ params }) {
   return (
     <main className="bg-[#FFF1E0] min-h-screen">
